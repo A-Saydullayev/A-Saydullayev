@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Azizbek</h2>
 
-<h3 align="center">A passionate frontend developer | React • Next.js • Tailwind</h3>
+<h3 align="center">A passionate frontend developer | React.js • React Native • Next.js • Tailwind</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding banner" width="900" />
