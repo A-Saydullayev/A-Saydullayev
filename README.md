@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Azizbek</h2>
 
-<h3 align="center">A passionate frontend developer | React.js • React Native • Next.js • Tailwind</h3>
+<h3 align="center">A passionate frontend developer | React.js • React Native • Next.js • TypeScript</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding banner" width="900" />
@@ -9,8 +9,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Saydullayev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&hide_title=false&hide_rank=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A-Saydullayev&layout=compact&langs_count=10&theme=dracula&hide_border=true&card_width=320" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-Saydullayev&theme=dracula&v=1" height="165" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Saydullayev&theme=dracula" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Saydullayev&theme=dracula&v=1" height="165" alt="Productive Time" />
 </div>
 
 <br/>
